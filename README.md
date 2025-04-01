@@ -3,10 +3,10 @@
 This project is a simple Currency Converter web application built using HTML, CSS, and JavaScript. It allows users to convert amounts between different currencies by selecting the desired currencies from dropdown menus.
 
 **Features**
-User Input: Users can enter the amount they wish to convert.
-Currency Selection: Dropdown menus for selecting the source and target currencies.
-Exchange Rate Display: Displays a static exchange rate for demonstration purposes.
-Responsive Design: The application is designed to be responsive and user-friendly.
+1) User Input: Users can enter the amount they wish to convert.
+2) Currency Selection: Dropdown menus for selecting the source and target currencies.
+3) Exchange Rate Display: Displays a static exchange rate for demonstration purposes.
+4) Responsive Design: The application is designed to be responsive and user-friendly.
 
 **Technologies Used**
 HTML: For the structure of the web application.
